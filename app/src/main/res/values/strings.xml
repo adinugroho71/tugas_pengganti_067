@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pengganti</string>
+
+    <string-array name="pilih"></string-array>
+</resources>
